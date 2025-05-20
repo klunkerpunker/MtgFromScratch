@@ -1,11 +1,10 @@
 import json
 from json import JSONEncoder
-import os
 from datetime import datetime
 from pathlib import Path
 
-from Card import Card
-from scyfall import fetch_card
+from core.Card import Card
+from data.scyfall import fetch_card
 
 DECK_DIR = Path(__file__).parent / 'decks'
 
