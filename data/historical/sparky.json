@@ -1,0 +1,169 @@
+{
+  "sparky_white": {
+
+    "vs_sparky_blue": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_black": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_red": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_green": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_general": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    }
+  },
+
+
+  "sparky_blue": {
+    "vs_sparky_white": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+
+    "vs_sparky_black": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_red": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_green": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_general": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    }
+  },
+
+
+  "sparky_black": {
+
+    "vs_sparky_white": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_blue": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_red": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_green": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_general": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    }
+  },
+
+
+  "sparky_red": {
+    
+    "vs_sparky_white": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_blue": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_black": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_green": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_general": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    }
+  },
+
+
+  "sparky_green": {
+    "vs_sparky_white": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_blue": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_black": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_sparky_red": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+
+    "vs_general": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    }
+  }
+}

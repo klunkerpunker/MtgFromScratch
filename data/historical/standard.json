@@ -1,0 +1,14 @@
+{
+  "azorious_control": {
+    "vs_izzet_prowess": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    },
+    "vs_general": {
+      "play_win_rate": 0.5,
+      "draw_win_rate": 0.5,
+      "samples": 0
+    }
+  }
+}
