@@ -1,0 +1,1450 @@
+{
+  "cards": [
+    {
+      "name": "Witch's Familiar",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Witch's Familiar",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Frog",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Witch's Familiar",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Witch's Familiar",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Frog",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Typhoid Rats",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Typhoid Rats",
+          "mana_cost": "{B}",
+          "type_line": "Creature — Rat",
+          "oracle_text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Typhoid Rats",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Typhoid Rats",
+          "mana_cost": "{B}",
+          "type_line": "Creature — Rat",
+          "oracle_text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Savage Gorger",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Savage Gorger",
+          "mana_cost": "{1}{B}{B}",
+          "type_line": "Creature — Vampire",
+          "oracle_text": "Flying\nAt the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on this creature. (Damage causes loss of life.)",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Savage Gorger",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Savage Gorger",
+          "mana_cost": "{1}{B}{B}",
+          "type_line": "Creature — Vampire",
+          "oracle_text": "Flying\nAt the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on this creature. (Damage causes loss of life.)",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Scathe Zombies",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Scathe Zombies",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Zombie",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Scathe Zombies",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Scathe Zombies",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Zombie",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Scathe Zombies",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Scathe Zombies",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Zombie",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Scathe Zombies",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Scathe Zombies",
+          "mana_cost": "{2}{B}",
+          "type_line": "Creature — Zombie",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Skeleton Archer",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Skeleton Archer",
+          "mana_cost": "{3}{B}",
+          "type_line": "Creature — Skeleton Archer",
+          "oracle_text": "When this creature enters, it deals 1 damage to any target.",
+          "colors": [
+            "B"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Krovikan Scoundrel",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Krovikan Scoundrel",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Human Rogue",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Krovikan Scoundrel",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Krovikan Scoundrel",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Human Rogue",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Krovikan Scoundrel",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Krovikan Scoundrel",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Human Rogue",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Krovikan Scoundrel",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Krovikan Scoundrel",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Human Rogue",
+          "oracle_text": "",
+          "colors": [
+            "B"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Malakir Cullblade",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Malakir Cullblade",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Vampire Warrior",
+          "oracle_text": "Whenever a creature an opponent controls dies, put a +1/+1 counter on this creature.",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Malakir Cullblade",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Malakir Cullblade",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Vampire Warrior",
+          "oracle_text": "Whenever a creature an opponent controls dies, put a +1/+1 counter on this creature.",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Malakir Cullblade",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Malakir Cullblade",
+          "mana_cost": "{1}{B}",
+          "type_line": "Creature — Vampire Warrior",
+          "oracle_text": "Whenever a creature an opponent controls dies, put a +1/+1 counter on this creature.",
+          "colors": [
+            "B"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Compound Fracture",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Compound Fracture",
+          "mana_cost": "{B}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets -1/-1 until end of turn. It gets an additional -1/-1 until end of turn for each card named Compound Fracture in your graveyard.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Compound Fracture",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Compound Fracture",
+          "mana_cost": "{B}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets -1/-1 until end of turn. It gets an additional -1/-1 until end of turn for each card named Compound Fracture in your graveyard.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Compound Fracture",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Compound Fracture",
+          "mana_cost": "{B}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets -1/-1 until end of turn. It gets an additional -1/-1 until end of turn for each card named Compound Fracture in your graveyard.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Cruel Cut",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Cruel Cut",
+          "mana_cost": "{1}{B}",
+          "type_line": "Instant",
+          "oracle_text": "Destroy target creature with power 2 or less.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Murder",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Murder",
+          "mana_cost": "{1}{B}{B}",
+          "type_line": "Instant",
+          "oracle_text": "Destroy target creature.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Murder",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Murder",
+          "mana_cost": "{1}{B}{B}",
+          "type_line": "Instant",
+          "oracle_text": "Destroy target creature.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Unlikely Aid",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Unlikely Aid",
+          "mana_cost": "{1}{B}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Unlikely Aid",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Unlikely Aid",
+          "mana_cost": "{1}{B}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Unlikely Aid",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Unlikely Aid",
+          "mana_cost": "{1}{B}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raise Dead",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raise Dead",
+          "mana_cost": "{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Return target creature card from your graveyard to your hand.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raise Dead",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raise Dead",
+          "mana_cost": "{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Return target creature card from your graveyard to your hand.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raise Dead",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "B"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raise Dead",
+          "mana_cost": "{B}",
+          "type_line": "Sorcery",
+          "oracle_text": "Return target creature card from your graveyard to your hand.",
+          "colors": [
+            "B"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "B"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Swamp",
+          "mana_cost": "",
+          "type_line": "Basic Land — Swamp",
+          "oracle_text": "({T}: Add {B}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2025-05-20T12:02:19.261915",
+    "total_cards": 60,
+    "version": "1.1",
+    "deck_name": "Sparky Black"
+  }
+}

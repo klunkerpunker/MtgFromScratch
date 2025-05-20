@@ -1,0 +1,1450 @@
+{
+  "cards": [
+    {
+      "name": "Affectionate Indrik",
+      "layout": "normal",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Affectionate Indrik",
+          "mana_cost": "{5}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Affectionate Indrik",
+      "layout": "normal",
+      "cmc": 6.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Affectionate Indrik",
+          "mana_cost": "{5}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "When this creature enters, you may have it fight target creature you don't control. (Each deals damage equal to its power to the other.)",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Baloth Packhunter",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Baloth Packhunter",
+          "mana_cost": "{3}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "Trample\nWhen this creature enters, put two +1/+1 counters on each other creature you control named Baloth Packhunter.",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Baloth Packhunter",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Baloth Packhunter",
+          "mana_cost": "{3}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "Trample\nWhen this creature enters, put two +1/+1 counters on each other creature you control named Baloth Packhunter.",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Baloth Packhunter",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Baloth Packhunter",
+          "mana_cost": "{3}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "Trample\nWhen this creature enters, put two +1/+1 counters on each other creature you control named Baloth Packhunter.",
+          "colors": [
+            "G"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Generous Stray",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Generous Stray",
+          "mana_cost": "{2}{G}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "When this creature enters, draw a card.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Generous Stray",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Generous Stray",
+          "mana_cost": "{2}{G}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "When this creature enters, draw a card.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Generous Stray",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Generous Stray",
+          "mana_cost": "{2}{G}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "When this creature enters, draw a card.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Ilysian Caryatid",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Ilysian Caryatid",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Plant",
+          "oracle_text": "{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Ilysian Caryatid",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Ilysian Caryatid",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Plant",
+          "oracle_text": "{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Ilysian Caryatid",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Ilysian Caryatid",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Plant",
+          "oracle_text": "{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Rumbling Baloth",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Rumbling Baloth",
+          "mana_cost": "{2}{G}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Rumbling Baloth",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Rumbling Baloth",
+          "mana_cost": "{2}{G}{G}",
+          "type_line": "Creature — Beast",
+          "oracle_text": "",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Sentinel Spider",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Sentinel Spider",
+          "mana_cost": "{3}{G}{G}",
+          "type_line": "Creature — Spider",
+          "oracle_text": "Vigilance, reach",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Treetop Warden",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Treetop Warden",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Warrior",
+          "oracle_text": "",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Treetop Warden",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Treetop Warden",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Warrior",
+          "oracle_text": "",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Treetop Warden",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Treetop Warden",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Warrior",
+          "oracle_text": "",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Treetop Warden",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Treetop Warden",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Warrior",
+          "oracle_text": "",
+          "colors": [
+            "G"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Wildwood Patrol",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Wildwood Patrol",
+          "mana_cost": "{2}{G}",
+          "type_line": "Creature — Centaur Scout",
+          "oracle_text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+          "colors": [
+            "G"
+          ],
+          "power": "4",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Woodland Mystic",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Woodland Mystic",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Druid",
+          "oracle_text": "{T}: Add {G}.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Woodland Mystic",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Woodland Mystic",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Druid",
+          "oracle_text": "{T}: Add {G}.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Woodland Mystic",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Woodland Mystic",
+          "mana_cost": "{1}{G}",
+          "type_line": "Creature — Elf Druid",
+          "oracle_text": "{T}: Add {G}.",
+          "colors": [
+            "G"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Rabid Bite",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Rabid Bite",
+          "mana_cost": "{1}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target creature you control deals damage equal to its power to target creature you don't control.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Rabid Bite",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Rabid Bite",
+          "mana_cost": "{1}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target creature you control deals damage equal to its power to target creature you don't control.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Stony Strength",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Stony Strength",
+          "mana_cost": "{G}",
+          "type_line": "Instant",
+          "oracle_text": "Put a +1/+1 counter on target creature you control. Untap that creature.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Stony Strength",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Stony Strength",
+          "mana_cost": "{G}",
+          "type_line": "Instant",
+          "oracle_text": "Put a +1/+1 counter on target creature you control. Untap that creature.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Feral Roar",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Feral Roar",
+          "mana_cost": "{1}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target creature gets +4/+4 until end of turn.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Feral Roar",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Feral Roar",
+          "mana_cost": "{1}{G}",
+          "type_line": "Sorcery",
+          "oracle_text": "Target creature gets +4/+4 until end of turn.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Colossal Majesty",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Colossal Majesty",
+          "mana_cost": "{2}{G}",
+          "type_line": "Enchantment",
+          "oracle_text": "At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Colossal Majesty",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "G"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Colossal Majesty",
+          "mana_cost": "{2}{G}",
+          "type_line": "Enchantment",
+          "oracle_text": "At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.",
+          "colors": [
+            "G"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "G"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Forest",
+          "mana_cost": "",
+          "type_line": "Basic Land — Forest",
+          "oracle_text": "({T}: Add {G}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2025-05-20T14:23:17.253353",
+    "total_cards": 60,
+    "version": "1.1",
+    "deck_name": "Sparky Green"
+  }
+}

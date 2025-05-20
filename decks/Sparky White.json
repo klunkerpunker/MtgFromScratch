@@ -1,0 +1,1450 @@
+{
+  "cards": [
+    {
+      "name": "Sanctuary Cat",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Sanctuary Cat",
+          "mana_cost": "{W}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Sanctuary Cat",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Sanctuary Cat",
+          "mana_cost": "{W}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Serra Angel",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Serra Angel",
+          "mana_cost": "{3}{W}{W}",
+          "type_line": "Creature — Angel",
+          "oracle_text": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)",
+          "colors": [
+            "W"
+          ],
+          "power": "4",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shrine Keeper",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shrine Keeper",
+          "mana_cost": "{W}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shrine Keeper",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shrine Keeper",
+          "mana_cost": "{W}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shrine Keeper",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shrine Keeper",
+          "mana_cost": "{W}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shrine Keeper",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shrine Keeper",
+          "mana_cost": "{W}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Fencing Ace",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Fencing Ace",
+          "mana_cost": "{1}{W}",
+          "type_line": "Creature — Human Soldier",
+          "oracle_text": "Double strike (This creature deals both first-strike and regular combat damage.)",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Hallowed Priest",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Hallowed Priest",
+          "mana_cost": "{1}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on this creature.",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Hallowed Priest",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Hallowed Priest",
+          "mana_cost": "{1}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "Whenever you gain life, put a +1/+1 counter on this creature.",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Impassioned Orator",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Impassioned Orator",
+          "mana_cost": "{1}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "Whenever another creature you control enters, you gain 1 life.",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Impassioned Orator",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Impassioned Orator",
+          "mana_cost": "{1}{W}",
+          "type_line": "Creature — Human Cleric",
+          "oracle_text": "Whenever another creature you control enters, you gain 1 life.",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Angel of Vitality",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Angel of Vitality",
+          "mana_cost": "{2}{W}",
+          "type_line": "Creature — Angel",
+          "oracle_text": "Flying\nIf you would gain life, you gain that much life plus 1 instead.\nThis creature gets +2/+2 as long as you have 25 or more life.",
+          "colors": [
+            "W"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Charmed Stray",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Charmed Stray",
+          "mana_cost": "{W}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Charmed Stray",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Charmed Stray",
+          "mana_cost": "{W}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Charmed Stray",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Charmed Stray",
+          "mana_cost": "{W}",
+          "type_line": "Creature — Cat",
+          "oracle_text": "Lifelink\nWhen this creature enters, put a +1/+1 counter on each other creature you control named Charmed Stray.",
+          "colors": [
+            "W"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Loxodon Line Breaker",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Loxodon Line Breaker",
+          "mana_cost": "{2}{W}",
+          "type_line": "Creature — Elephant Soldier",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "3",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Loxodon Line Breaker",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Loxodon Line Breaker",
+          "mana_cost": "{2}{W}",
+          "type_line": "Creature — Elephant Soldier",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "3",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Loxodon Line Breaker",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Loxodon Line Breaker",
+          "mana_cost": "{2}{W}",
+          "type_line": "Creature — Elephant Soldier",
+          "oracle_text": "",
+          "colors": [
+            "W"
+          ],
+          "power": "3",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Spiritual Guardian",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Spiritual Guardian",
+          "mana_cost": "{3}{W}{W}",
+          "type_line": "Creature — Spirit",
+          "oracle_text": "When Spiritual Guardian enters, you gain 4 life.",
+          "colors": [
+            "W"
+          ],
+          "power": "3",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tactical Advantage",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tactical Advantage",
+          "mana_cost": "{W}",
+          "type_line": "Instant",
+          "oracle_text": "Target blocking or blocked creature you control gets +2/+2 until end of turn.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tactical Advantage",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tactical Advantage",
+          "mana_cost": "{W}",
+          "type_line": "Instant",
+          "oracle_text": "Target blocking or blocked creature you control gets +2/+2 until end of turn.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tactical Advantage",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tactical Advantage",
+          "mana_cost": "{W}",
+          "type_line": "Instant",
+          "oracle_text": "Target blocking or blocked creature you control gets +2/+2 until end of turn.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tactical Advantage",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tactical Advantage",
+          "mana_cost": "{W}",
+          "type_line": "Instant",
+          "oracle_text": "Target blocking or blocked creature you control gets +2/+2 until end of turn.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Confront the Assault",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Confront the Assault",
+          "mana_cost": "{4}{W}",
+          "type_line": "Instant",
+          "oracle_text": "Cast this spell only if a creature is attacking you.\nCreate three 1/1 white Spirit creature tokens with flying.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Knight's Pledge",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Knight's Pledge",
+          "mana_cost": "{1}{W}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Knight's Pledge",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Knight's Pledge",
+          "mana_cost": "{1}{W}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Knight's Pledge",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Knight's Pledge",
+          "mana_cost": "{1}{W}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Pacifism",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Pacifism",
+          "mana_cost": "{1}{W}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature can't attack or block.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Pacifism",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "W"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Pacifism",
+          "mana_cost": "{1}{W}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature can't attack or block.",
+          "colors": [
+            "W"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "W"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Plains",
+          "mana_cost": "",
+          "type_line": "Basic Land — Plains",
+          "oracle_text": "({T}: Add {W}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2025-05-20T14:17:09.043953",
+    "total_cards": 60,
+    "version": "1.1",
+    "deck_name": "Sparky White"
+  }
+}

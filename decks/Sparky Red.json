@@ -1,0 +1,1450 @@
+{
+  "cards": [
+    {
+      "name": "Tin Street Cadet",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tin Street Cadet",
+          "mana_cost": "{R}",
+          "type_line": "Creature — Goblin",
+          "oracle_text": "Whenever this creature becomes blocked, create a 1/1 red Goblin creature token.",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tin Street Cadet",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tin Street Cadet",
+          "mana_cost": "{R}",
+          "type_line": "Creature — Goblin",
+          "oracle_text": "Whenever this creature becomes blocked, create a 1/1 red Goblin creature token.",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tin Street Cadet",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tin Street Cadet",
+          "mana_cost": "{R}",
+          "type_line": "Creature — Goblin",
+          "oracle_text": "Whenever this creature becomes blocked, create a 1/1 red Goblin creature token.",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Tin Street Cadet",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Tin Street Cadet",
+          "mana_cost": "{R}",
+          "type_line": "Creature — Goblin",
+          "oracle_text": "Whenever this creature becomes blocked, create a 1/1 red Goblin creature token.",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Nest Robber",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Nest Robber",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Dinosaur",
+          "oracle_text": "Haste",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Nest Robber",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Nest Robber",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Dinosaur",
+          "oracle_text": "Haste",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Nest Robber",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Nest Robber",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Dinosaur",
+          "oracle_text": "Haste",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Nest Robber",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Nest Robber",
+          "mana_cost": "{1}{R}",
+          "type_line": "Creature — Dinosaur",
+          "oracle_text": "Haste",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raging Goblin",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raging Goblin",
+          "mana_cost": "{R}",
+          "type_line": "Creature — Goblin Berserker",
+          "oracle_text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raging Goblin",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raging Goblin",
+          "mana_cost": "{R}",
+          "type_line": "Creature — Goblin Berserker",
+          "oracle_text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+          "colors": [
+            "R"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Fearless Halberdier",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Fearless Halberdier",
+          "mana_cost": "{2}{R}",
+          "type_line": "Creature — Human Warrior",
+          "oracle_text": "",
+          "colors": [
+            "R"
+          ],
+          "power": "3",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Fearless Halberdier",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Fearless Halberdier",
+          "mana_cost": "{2}{R}",
+          "type_line": "Creature — Human Warrior",
+          "oracle_text": "",
+          "colors": [
+            "R"
+          ],
+          "power": "3",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Goblin Gang Leader",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Goblin Gang Leader",
+          "mana_cost": "{2}{R}{R}",
+          "type_line": "Creature — Goblin Warrior",
+          "oracle_text": "When this creature enters, create two 1/1 red Goblin creature tokens.",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Goblin Gathering",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Goblin Gathering",
+          "mana_cost": "{2}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Goblin Gathering",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Goblin Gathering",
+          "mana_cost": "{2}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Goblin Gathering",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Goblin Gathering",
+          "mana_cost": "{2}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Hurloon Minotaur",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Hurloon Minotaur",
+          "mana_cost": "{1}{R}{R}",
+          "type_line": "Creature — Minotaur",
+          "oracle_text": "",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Hurloon Minotaur",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Hurloon Minotaur",
+          "mana_cost": "{1}{R}{R}",
+          "type_line": "Creature — Minotaur",
+          "oracle_text": "",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Hurloon Minotaur",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Hurloon Minotaur",
+          "mana_cost": "{1}{R}{R}",
+          "type_line": "Creature — Minotaur",
+          "oracle_text": "",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Hurloon Minotaur",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Hurloon Minotaur",
+          "mana_cost": "{1}{R}{R}",
+          "type_line": "Creature — Minotaur",
+          "oracle_text": "",
+          "colors": [
+            "R"
+          ],
+          "power": "2",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Storm Strike",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Storm Strike",
+          "mana_cost": "{R}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets +1/+0 and gains first strike until end of turn. Scry 1.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Storm Strike",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Storm Strike",
+          "mana_cost": "{R}",
+          "type_line": "Instant",
+          "oracle_text": "Target creature gets +1/+0 and gains first strike until end of turn. Scry 1.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shock",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shock",
+          "mana_cost": "{R}",
+          "type_line": "Instant",
+          "oracle_text": "Shock deals 2 damage to any target.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shock",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shock",
+          "mana_cost": "{R}",
+          "type_line": "Instant",
+          "oracle_text": "Shock deals 2 damage to any target.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Shock",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Shock",
+          "mana_cost": "{R}",
+          "type_line": "Instant",
+          "oracle_text": "Shock deals 2 damage to any target.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Reduce to Ashes",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Reduce to Ashes",
+          "mana_cost": "{4}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Reduce to Ashes",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Reduce to Ashes",
+          "mana_cost": "{4}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Reduce to Ashes",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Reduce to Ashes",
+          "mana_cost": "{4}{R}",
+          "type_line": "Sorcery",
+          "oracle_text": "Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raid Bombardment",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raid Bombardment",
+          "mana_cost": "{2}{R}",
+          "type_line": "Enchantment",
+          "oracle_text": "Whenever a creature you control with power 2 or less attacks, this enchantment deals 1 damage to the player or planeswalker that creature is attacking.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Raid Bombardment",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "R"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Raid Bombardment",
+          "mana_cost": "{2}{R}",
+          "type_line": "Enchantment",
+          "oracle_text": "Whenever a creature you control with power 2 or less attacks, this enchantment deals 1 damage to the player or planeswalker that creature is attacking.",
+          "colors": [
+            "R"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "R"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Mountain",
+          "mana_cost": "",
+          "type_line": "Basic Land — Mountain",
+          "oracle_text": "({T}: Add {R}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2025-05-20T14:26:38.617957",
+    "total_cards": 60,
+    "version": "1.1",
+    "deck_name": "Sparky Red"
+  }
+}

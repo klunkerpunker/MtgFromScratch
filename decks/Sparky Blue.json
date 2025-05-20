@@ -1,0 +1,1458 @@
+{
+  "cards": [
+    {
+      "name": "Wall of Runes",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Wall of Runes",
+          "mana_cost": "{U}",
+          "type_line": "Creature — Wall",
+          "oracle_text": "Defender (This creature can't attack.)\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+          "colors": [
+            "U"
+          ],
+          "power": "0",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Wall of Runes",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Wall of Runes",
+          "mana_cost": "{U}",
+          "type_line": "Creature — Wall",
+          "oracle_text": "Defender (This creature can't attack.)\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+          "colors": [
+            "U"
+          ],
+          "power": "0",
+          "toughness": "4",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Warden of Evos Isle",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Warden of Evos Isle",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Bird Wizard",
+          "oracle_text": "Flying\nCreature spells with flying you cast cost {1} less to cast.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Warden of Evos Isle",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Warden of Evos Isle",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Bird Wizard",
+          "oracle_text": "Flying\nCreature spells with flying you cast cost {1} less to cast.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Warden of Evos Isle",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Warden of Evos Isle",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Bird Wizard",
+          "oracle_text": "Flying\nCreature spells with flying you cast cost {1} less to cast.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "2",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Waterkin Shaman",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Waterkin Shaman",
+          "mana_cost": "{1}{U}",
+          "type_line": "Creature — Elemental Shaman",
+          "oracle_text": "Whenever a creature you control with flying enters, this creature gets +1/+1 until end of turn.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Waterkin Shaman",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Waterkin Shaman",
+          "mana_cost": "{1}{U}",
+          "type_line": "Creature — Elemental Shaman",
+          "oracle_text": "Whenever a creature you control with flying enters, this creature gets +1/+1 until end of turn.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Armored Whirl Turtle",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Armored Whirl Turtle",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Turtle",
+          "oracle_text": "",
+          "colors": [
+            "U"
+          ],
+          "power": "0",
+          "toughness": "5",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Armored Whirl Turtle",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Armored Whirl Turtle",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Turtle",
+          "oracle_text": "",
+          "colors": [
+            "U"
+          ],
+          "power": "0",
+          "toughness": "5",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Armored Whirl Turtle",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Armored Whirl Turtle",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Turtle",
+          "oracle_text": "",
+          "colors": [
+            "U"
+          ],
+          "power": "0",
+          "toughness": "5",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Cloudkin Seer",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Cloudkin Seer",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Elemental Wizard",
+          "oracle_text": "Flying\nWhen this creature enters, draw a card.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Cloudkin Seer",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Cloudkin Seer",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Elemental Wizard",
+          "oracle_text": "Flying\nWhen this creature enters, draw a card.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Cloudkin Seer",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Cloudkin Seer",
+          "mana_cost": "{2}{U}",
+          "type_line": "Creature — Elemental Wizard",
+          "oracle_text": "Flying\nWhen this creature enters, draw a card.",
+          "colors": [
+            "U"
+          ],
+          "power": "2",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Octoprophet",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Octoprophet",
+          "mana_cost": "{3}{U}",
+          "type_line": "Creature — Octopus",
+          "oracle_text": "When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+          "colors": [
+            "U"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Octoprophet",
+      "layout": "normal",
+      "cmc": 4.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Octoprophet",
+          "mana_cost": "{3}{U}",
+          "type_line": "Creature — Octopus",
+          "oracle_text": "When this creature enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+          "colors": [
+            "U"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Sworn Guardian",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Sworn Guardian",
+          "mana_cost": "{1}{U}",
+          "type_line": "Creature — Merfolk Warrior",
+          "oracle_text": "",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Sworn Guardian",
+      "layout": "normal",
+      "cmc": 2.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Sworn Guardian",
+          "mana_cost": "{1}{U}",
+          "type_line": "Creature — Merfolk Warrior",
+          "oracle_text": "",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Windstorm Drake",
+      "layout": "normal",
+      "cmc": 5.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Windstorm Drake",
+          "mana_cost": "{4}{U}",
+          "type_line": "Creature — Drake",
+          "oracle_text": "Flying\nOther creatures you control with flying get +1/+0.",
+          "colors": [
+            "U"
+          ],
+          "power": "3",
+          "toughness": "3",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Zephyr Gull",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Zephyr Gull",
+          "mana_cost": "{U}",
+          "type_line": "Creature — Bird",
+          "oracle_text": "Flying",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Zephyr Gull",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Zephyr Gull",
+          "mana_cost": "{U}",
+          "type_line": "Creature — Bird",
+          "oracle_text": "Flying",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Zephyr Gull",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Zephyr Gull",
+          "mana_cost": "{U}",
+          "type_line": "Creature — Bird",
+          "oracle_text": "Flying",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Zephyr Gull",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Zephyr Gull",
+          "mana_cost": "{U}",
+          "type_line": "Creature — Bird",
+          "oracle_text": "Flying",
+          "colors": [
+            "U"
+          ],
+          "power": "1",
+          "toughness": "1",
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Unsummon",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Unsummon",
+          "mana_cost": "{U}",
+          "type_line": "Instant",
+          "oracle_text": "Return target creature to its owner's hand.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Unsummon",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Unsummon",
+          "mana_cost": "{U}",
+          "type_line": "Instant",
+          "oracle_text": "Return target creature to its owner's hand.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Unsummon",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Unsummon",
+          "mana_cost": "{U}",
+          "type_line": "Instant",
+          "oracle_text": "Return target creature to its owner's hand.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Winged Words",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Winged Words",
+          "mana_cost": "{2}{U}",
+          "type_line": "Sorcery",
+          "oracle_text": "This spell costs {1} less to cast if you control a creature with flying.\nDraw two cards.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "River's Favor",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "River's Favor",
+          "mana_cost": "{U}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "River's Favor",
+      "layout": "normal",
+      "cmc": 1.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "River's Favor",
+          "mana_cost": "{U}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Waterknot",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Waterknot",
+          "mana_cost": "{1}{U}{U}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Waterknot",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Waterknot",
+          "mana_cost": "{1}{U}{U}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Waterknot",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Waterknot",
+          "mana_cost": "{1}{U}{U}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Waterknot",
+      "layout": "normal",
+      "cmc": 3.0,
+      "colors": [
+        "U"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Waterknot",
+          "mana_cost": "{1}{U}{U}",
+          "type_line": "Enchantment — Aura",
+          "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+          "colors": [
+            "U"
+          ],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "cmc": 0.0,
+      "colors": [],
+      "color_identity": [
+        "U"
+      ],
+      "faces": {
+        "Face1": {
+          "name": "Island",
+          "mana_cost": "",
+          "type_line": "Basic Land — Island",
+          "oracle_text": "({T}: Add {U}.)",
+          "colors": [],
+          "power": null,
+          "toughness": null,
+          "loyalty": null,
+          "defence": null
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2025-05-20T14:25:27.365736",
+    "total_cards": 60,
+    "version": "1.1",
+    "deck_name": "Sparky Blue"
+  }
+}

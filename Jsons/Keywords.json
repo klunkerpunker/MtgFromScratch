@@ -1,0 +1,14 @@
+{
+    "deathtouch": {
+      "description": "Any amount of damage this deals to a creature is enough to destroy it.",
+      "type": "static",
+      "zone": ["battlefield", "stack"],
+      "triggers": [
+        {
+          "event": "damage_dealt",
+          "condition":  "target.is_creature",
+          "effect":  "destroy_target"
+        }
+      ]
+    }
+}
