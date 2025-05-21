@@ -1,0 +1,32 @@
+{
+  "sparky_white": {
+    "key_cards": ["Charmed Stray","Impassioned Orator","Hallowed Priest"],
+    "secondary_cards": ["Angel of Vitality", "Spiritual Guardian"],
+    "archetype": "midrange",
+    "meta_percent": 0.2
+  },
+  "sparky_blue": {
+    "key_cards": ["Cloudkin Seer", "Warden of Evos Isle", "Waterkin Shaman"],
+    "secondary_cards": ["Windstorm Drake", "Waterknot"],
+    "archetype": "control",
+    "meta_percent": 0.2
+  },
+  "sparky_black": {
+    "key_cards": ["Malakir Cullblade", "Savage Gorger", "Compound Fracture"],
+    "secondary_cards": ["Skeleton Archer", "Murder"],
+    "archetype": "midrange",
+    "meta_percent": 0.2
+  },
+  "sparky_red": {
+    "key_cards": ["Nest Robber", "Goblin Gathering", "Shock"],
+    "secondary_cards": ["Goblin Gang Leader", "Raid Bombardment"],
+    "archetype": "aggro",
+    "meta_percent": 0.2
+  },
+  "sparky_green": {
+    "key_cards": ["Woodland Mystic", "Generous Stray", "Baloth Packhunter"],
+    "secondary_cards": ["Colossal Majesty", "Affectionate Indrik"],
+    "archetype": "ramp",
+    "meta_percent": 0.2
+  }
+}

@@ -1,3 +1,6 @@
+from random import random
+
+
 class PlayDrawDecision:
     @staticmethod
     def human_decision(player_name):
@@ -7,5 +10,9 @@ class PlayDrawDecision:
     @staticmethod
     def ai_decision(game_state, ai_model=None):
         if ai_model:
-            return ai_model.predict(game_state)
+            winrates = game_state["historical_win_rates"]
+
+            if winrates["play_win_rate"] > winrates["draw_win_rate"]:
+                return "p"
+            return "d"
         return "p" if random.random() > 0.6 else "d"
