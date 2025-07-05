@@ -3,6 +3,8 @@ from random import random
 from pathlib import Path
 from typing import Dict, Optional
 
+from core import Card
+from core.decisions.mulligan import MulliganDecision
 from data.historical_repository import HistoricalRepository
 from player import Player, PlayerType
 from core.decisions import PlayDrawDecision
@@ -51,6 +53,9 @@ class Game:
         """Initialize a new game"""
         self.choose_first_player()
         self.draw_starting_hands()
+        mull_dec = {'choice': 'm', 'times': 0}
+        while mull_dec['choice'] == 'm':
+            mull_dec = self.mulligan_decisions(mull_dec)
 
     def choose_first_player(self):
         decider = random.choice(self.players)
@@ -73,8 +78,6 @@ class Game:
         for player in self.players:
             player.draw_card(self, amount=7)
 
-
-
     def _get_opponent(self, requesting_player):
         return next(p for p in self.players if p != requesting_player)
 
@@ -93,6 +96,34 @@ class Game:
             "historical_win_rates": win_rates
         }
 
+    # Add more factors to this function as model progresses
+    # Factors to add later: Did your opponent mulligan, cmc of cards in hand, number of tap lands, combo pieces
+    def _get_mulligan_state(self, requesting_player, mull_state):
+        hand = requesting_player.hand
+        meta_data = {'n_cards': len(hand), 'n_mull': mull_state['times']}
+
+        def count_hand_lands(hand: list[Card]) -> int:
+            running_count = 0
+            for card in hand:
+                for face in card.faces:
+                    if 'land' in face.type_line.lower():
+                        running_count += 1
+                        break
+            return running_count
+        n_lands = count_hand_lands(hand)
+        meta_data['n_lands'] = n_lands
+        return meta_data
+
+    def mulligan_decisions(self, mull_state):
+        decider = self.current_player
+        if decider.type == PlayerType.HUMAN:
+            decision = MulliganDecision.human_decision(decider.name, self.decider.hand)
+        else:
+            hand_state = self._get_mulligan_state(decider, mull_state)
+            decision = MulliganDecision.ai_decision(hand_state, self.ai_model)
+        temp_mull_dec = {'choice': decision}
+        temp_mull_dec['times']
+        return
     def record_game_result(self, winner):
         """Update stats after game ends"""
         self.historical.update_win_rates(
@@ -191,6 +222,7 @@ class Game:
             self,
             event: str,
             player: Player,
-            reason: str
+            meta_data: dict
     ):
-        self.event_queue.append((event, player, reason))
+        self.event_queue.append((event, player, meta_data))
+

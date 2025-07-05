@@ -39,5 +39,5 @@ class Player:
             card = self.library.pop(0)
             self.hand.append(card)
             drawn_cards.append(card)
-            game.queue_event("card_drawn", player=self, card=card)
+            game.queue_event("card_drawn", player=self, meta_data={'reason': 'empty_library'})
         return drawn_cards
