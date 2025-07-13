@@ -6,7 +6,7 @@ from pathlib import Path
 from core.Card import Card
 from data.scyfall import fetch_card
 
-DECK_DIR = Path(__file__).parent / 'decks'
+DECK_DIR = Path(__file__).parent.parent / 'data' / 'decks'
 
 def parse_decklist(decklist_str):
     deck_str = []
@@ -25,14 +25,14 @@ def parse_decklist(decklist_str):
     return deck
 
 
-def save_deck(deck, deck_name):
+def save_deck(deck, deck_name, format:str):
     """Saves deck to project/decks/ directory using proper serialization"""
     try:
         # Ensure deck directory exists
         DECK_DIR.mkdir(exist_ok=True)
 
         # Create the full file path
-        path = DECK_DIR / f'{deck_name}.json'
+        path = DECK_DIR / format / f'{deck_name}.json'
 
         # Prepare the deck data with proper serialization
         deck_data = {
@@ -57,13 +57,13 @@ def save_deck(deck, deck_name):
         return False
 
 
-def load_deck(deck_name):
+def load_deck(deck_name, format:str):
     """Loads deck from project/decks/ and reconstructs Card objects"""
     try:
-        path = DECK_DIR / f'{deck_name}.json'
+        path = DECK_DIR / format / f'{deck_name}.json'
 
         if not path.exists():
-            raise FileNotFoundError(f"Deck file '{deck_name}.json' not found")
+            raise FileNotFoundError(f"Deck file '{path}' not found")
 
         with open(path, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -73,17 +73,29 @@ def load_deck(deck_name):
                 raise ValueError("Invalid deck format: missing 'cards' key")
 
             # Reconstruct the deck
-            deck = [Card(card_data) for card_data in data['cards']]
+            deck = []
+            for card_data in data['cards']:
+                if 'faces' in card_data:
+                    for face_name, face_data in card_data['faces'].items():
+                        combined_data = {
+                            **card_data,
+                            **face_data,
+                            'face_name': face_name,
+                        }
+                        deck.append(Card(combined_data))
+                else:
+                    deck.append(Card(card_data))
 
             print(f"Successfully loaded deck '{deck_name}' with {len(deck)} cards")
             if 'metadata' in data:
                 print(f"Originally created: {data['metadata'].get('created', 'unknown')}")
 
             return deck
-
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON in deck file: {str(e)}")
     except Exception as e:
-        print(f"Error loading deck '{deck_name}': {str(e)}")
-        return None
+        raise RuntimeError(f"Error loading deck '{deck_name}': {str(e)}")
+
 
 class CardEncoder(JSONEncoder):
     def default(self, obj):
@@ -95,21 +107,3 @@ class CardEncoder(JSONEncoder):
                 d['faces'] = [face.__dict__ for face in d['faces']]
             return d
         return super().default(obj)
-
-decklist = """
-4 Tin Street Cadet
-4 Nest Robber
-2 Raging Goblin
-2 Fearless Halberdier
-1 Goblin Gang Leader
-3 Goblin Gathering
-4 Hurloon Minotaur
-2 Storm Strike
-3 Shock
-3 Reduce to Ashes
-2 Raid Bombardment
-30 Mountain
-"""
-
-spark_black = parse_decklist(decklist)
-save_deck(spark_black, 'Sparky Red')

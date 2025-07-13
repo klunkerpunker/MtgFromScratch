@@ -1,13 +1,16 @@
 import json
-from random import random
+import random
 from pathlib import Path
 from typing import Dict, Optional
 
 from core import Card
 from core.decisions.mulligan import MulliganDecision
 from data.historical_repository import HistoricalRepository
-from player import Player, PlayerType
+from core.player import Player, PlayerType
 from core.decisions import PlayDrawDecision
+from core.Deck import load_deck
+
+PROJ_DIR = Path(__file__).parent.parent
 
 
 class Game:
@@ -16,6 +19,7 @@ class Game:
                  player2_type=PlayerType.AI,
                  game_format: str = "sparky"):
         # Players
+        self.archetypes = None
         self.players = [
             Player("Player 1", player1_type),
             Player("Player 2", player2_type)
@@ -51,11 +55,58 @@ class Game:
 
     def start_game(self):
         """Initialize a new game"""
+        self.setup()
+        self.load_decks()
         self.choose_first_player()
         self.draw_starting_hands()
         mull_dec = {'choice': 'm', 'times': 0}
         while mull_dec['choice'] == 'm':
             mull_dec = self.mulligan_decisions(mull_dec)
+
+    def setup(self):
+        self.load_archetypes()
+
+    def load_archetypes(self):
+        """Loads deck archetype data from JSON file into self.archetypes"""
+        try:
+            archetypes_path = PROJ_DIR / 'data'/ 'decks' / self.game_format / 'deck_archetypes.json'
+
+            if not archetypes_path.exists():
+                raise FileNotFoundError(f"Archetypes file not found at {archetypes_path}")
+
+            with open(archetypes_path, 'r', encoding='utf-8') as f:
+                self.archetypes = json.load(f)
+
+            print(f"Loaded archetype data for {len(self.archetypes)} decks")
+
+        except json.JSONDecodeError as e:
+            raise ValueError(f"Invalid JSON in archetypes file: {str(e)}")
+        except Exception as e:
+            raise RuntimeError(f"Error loading archetypes: {str(e)}")
+
+    def load_decks(self):
+        global deck_color
+        deck_dict = {
+            'w': 'sparky_white',
+            'u': 'sparky_blue',
+            'b': 'sparky_black',
+            'r': 'sparky_red',
+            'g': 'sparky_green'
+        }
+        for player in self.players:
+            if player.type == PlayerType.HUMAN:
+                #Edit this later to keep prompting if the deck name does not exist
+                deck_color = input("Choose your deck color (wubrg): ")
+                player.library = load_deck(deck_dict[deck_color], self.game_format)
+            if player.type == PlayerType.AI:
+                deck_color = random.choice(list(deck_dict.keys()))
+                player.library = load_deck(deck_dict[deck_color], self.game_format)
+            player.deck_archetype = self.archetypes[deck_dict[deck_color]]
+            del deck_color
+            self.shuffle_deck(player)
+
+    def shuffle_deck(self, requesting_player):
+        random.shuffle(requesting_player.library)
 
     def choose_first_player(self):
         decider = random.choice(self.players)
@@ -82,7 +133,7 @@ class Game:
         return next(p for p in self.players if p != requesting_player)
 
     def _get_play_draw_state(self, requesting_player):
-        my_archetype = requesting_player.deck.achetype
+        my_archetype = requesting_player.deck_archetype["archetype"]
         opponent_archetype = None if self.match_game_number == 1 else self._infer_opponent_archetype(requesting_player)
 
         win_rates = self.historical.get_win_rates(
@@ -105,8 +156,8 @@ class Game:
         def count_hand_lands(hand: list[Card]) -> int:
             running_count = 0
             for card in hand:
-                for face in card.faces:
-                    if 'land' in face.type_line.lower():
+                for face_name, face_obj in card.faces.items():
+                    if 'land' in face_obj.type_line.lower():
                         running_count += 1
                         break
             return running_count
@@ -117,7 +168,7 @@ class Game:
     def mulligan_decisions(self, mull_state):
         decider = self.current_player
         if decider.type == PlayerType.HUMAN:
-            decision = MulliganDecision.human_decision(decider.name, self.decider.hand)
+            decision = MulliganDecision.human_decision(decider.name, decider.hand)
         else:
             hand_state = self._get_mulligan_state(decider, mull_state)
             decision = MulliganDecision.ai_decision(hand_state, self.ai_model)

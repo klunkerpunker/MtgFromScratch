@@ -17,6 +17,7 @@ class Player:
         self.mana_pool = {
             'W': 0, 'U': 0, 'B': 0, 'R': 0, 'G': 0, 'C': 0
         }
+        self.deck_archetype = {}
         self.hand = []
         self.graveyard = []
         self.library = []
